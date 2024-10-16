@@ -1,5 +1,3 @@
-Claro, aqui está um modelo de README.md para o projeto "democratize.me":
-
 # democratize.me
 
 ## Sobre o Projeto
