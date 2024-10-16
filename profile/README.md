@@ -1,4 +1,13 @@
-# democratize.me
+```
+     888                                                    888   d8b                                        
+     888                                                    888   Y8P                                        
+     888                                                    888                                              
+ .d88888 .d88b. 88888b.d88b.  .d88b.  .d8888b888d888 8888b. 88888888888888888 .d88b.   88888b.d88b.  .d88b.  
+d88" 888d8P  Y8b888 "888 "88bd88""88bd88P"   888P"      "88b888   888   d88P d8P  Y8b  888 "888 "88bd8P  Y8b 
+888  88888888888888  888  888888  888888     888    .d888888888   888  d88P  88888888  888  888  88888888888 
+Y88b 888Y8b.    888  888  888Y88..88PY88b.   888    888  888Y88b. 888 d88P   Y8b.   d8b888  888  888Y8b.     
+ "Y88888 "Y8888 888  888  888 "Y88P"  "Y8888P888    "Y888888 "Y88888888888888 "Y8888Y8P888  888  888 "Y8888  
+```
 
 ## Sobre o Projeto
 O "democratize.me" é uma plataforma online desenvolvida com o objetivo de fornecer aos cidadãos brasileiros um acesso centralizado a informações sobre política, leis, parlamentares e instituições governamentais. Além disso, a plataforma oferece um espaço de fórum para discussão, participação e aprendizado sobre a Constituição Federal e os direitos e deveres do cidadão.
