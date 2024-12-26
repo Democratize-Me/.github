@@ -12,7 +12,7 @@ Y88b 888Y8b.    888  888  888Y88..88PY88b.   888    888  888Y8
 ## Sobre o Projeto
 O "democratize.me" é uma plataforma online desenvolvida com o objetivo de fornecer aos cidadãos brasileiros um acesso centralizado a informações sobre política, leis, parlamentares e instituições governamentais. Além disso, a plataforma oferece um espaço de fórum para discussão, participação e aprendizado sobre a Constituição Federal e os direitos e deveres do cidadão.
 
-## Funcionalidades Principais
+## Principais Funcionalidades
 - **Consulta de Informações Políticas**: Os usuários podem acessar dados atualizados sobre leis, deputados, Senado, Supremo Tribunal Federal, Tribunal Superior Eleitoral, entre outros.
 - **Fórum de Discussão**: A plataforma disponibiliza um espaço para que os cidadãos possam compartilhar suas opiniões, reclamações e sugestões sobre assuntos políticos.
 - **Área de Aprendizado**: A plataforma oferece conteúdo educativo sobre a Constituição Federal, direitos e deveres do cidadão brasileiro.
@@ -21,7 +21,7 @@ O "democratize.me" é uma plataforma online desenvolvida com o objetivo de forne
 O nome "democratize.me" reflete o objetivo central do projeto, que é empoderar e envolver os cidadãos brasileiros no processo democrático. Ao fornecer informações acessíveis e um espaço de discussão, a plataforma visa aumentar a participação e o engajamento da população nas questões políticas.
 
 ## Tecnologias Utilizadas
-> Em analise
+> Em análise
 
 ## Como Contribuir
 Fique à vontade para contribuir com o projeto de diversas formas, como:
@@ -29,7 +29,7 @@ Fique à vontade para contribuir com o projeto de diversas formas, como:
 - Divulgando o projeto em suas redes sociais
 
 Para mais informações sobre a documentação do projeto, acesse a:
-> ainda não criada 
+> ainda não criada
 
 ## Contato
 Você pode entrar em contato conosco através do e-mail contato@democratize.me ou pelas redes sociais.
